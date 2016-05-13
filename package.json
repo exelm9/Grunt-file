@@ -1,0 +1,15 @@
+{
+  "name": "grunt-test",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exelm9/Grunt-file.git"
+  },
+  "author": "erik mildner",
+  "homepage": "https://github.com/exelm9/Grunt-file#readme",
+  "dependencies": {
+    "uglify": "^0.1.5",
+    "grunt-contrib-uglify": "latest"
+  }
+}
